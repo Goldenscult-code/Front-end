@@ -17,7 +17,7 @@
 	display: flex;
 	flex-direction: column;
 	gap: var(--row-gap);
-	border: 5px solid #f0f;
+	border: 5px solid rgb(0, 0, 0);
 }
 
 .row {
@@ -40,46 +40,6 @@
 	flex-basis: 100%;
 }
 
-.col-11 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-10 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-9 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-8 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-7 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-6 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-5 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-4 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-3 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
-.col-2 {
-	flex-grow: 0;
-    flex-basis: 8.33%;
-}
 .col-1 {
 	flex-grow: 0;
     flex-basis: 8.33%;
